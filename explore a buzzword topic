@@ -1,0 +1,11 @@
+A blockchain is a growing list of records called blocks which are interconnected by utilizing cryptography. 
+Each block contains a cryptographic hash of the previous block, a time stamp, and exchange information. 
+Utilizing blockchain we can safely store information over the shared system, where everybody can see but can’t do any alteration. 
+Blockchain will track all information trade called ledger and it uses a distributed system to verify every exchange.
+
+The blockchain is utilized for the safe exchange of things like cash, property, contracts, and so forth without requiring a third-party intermediary like bank or government. 
+When a piece of information is recorded inside a blockchain, it is exceptionally hard to change it.
+
+As opposed to a banking system where no client is enabled access to another client’s exchanges, the blockchain innovation permits all clients over the globe access to see
+another client’s operations. This leads to 100% transparency of offers on the entry which guarantees
+that no client can adjust or erase any exchange without another client seeing this event.
